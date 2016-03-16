@@ -1,0 +1,33 @@
+#maintitle {
+	text-align: center;
+  	font-size: 5.8rem;
+  	font-family: 'Poller One', "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  	line-height: 0.6;
+  	margin-top: 4%;
+}
+#maintitle span{
+	font-size: 4rem;
+}
+#nav {
+	text-align:center;
+	border-bottom: thin solid #4a4a4c;
+	}
+#nav a{
+	text-decoration: none;
+  	color: #c33;
+}
+#pricing-table thead:first-child{
+	background-color: #f0f0f0;
+}
+#pricing-table td:first-child{
+	font-weight: bold;
+	padding-left: 8px;
+}
+#pricing-table th:first-child{
+	padding-left:8px;
+
+}
+#pricing-table th:nth-child(4){
+	padding-right:8px;
+
+}
