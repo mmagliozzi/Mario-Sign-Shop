@@ -31,6 +31,11 @@
 	padding-right:8px;
 
 }
+<<<<<<< 01014b58d3cb176561b47348825490fa3f436ef0
 #add{
 	color:#444;
+=======
+.shadow-img{
+	    box-shadow: 7px 7px 0px #444;
+>>>>>>> Initial Recommit
 }
